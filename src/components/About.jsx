@@ -13,7 +13,7 @@ const About = props => {
 
     return(
         <Wrapper>
-            <h1>Gazal Patel</h1>
+            <h1>Mruga Patel</h1>
             <p>HI, I'M A SOFTWARE DEVELOPER IN Canada</p>
         </Wrapper>
     )
